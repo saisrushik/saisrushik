@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisrushik&label=Profile%20views&color=0e75b6&style=flat" alt="saisrushik" /> </p>
 
-- 🔭 I’m currently working on [Financial Text Summarization using Reinforcement learning](click here)
+- 🔭 I’m currently working at <b> Cognizant </b> as <b>Quality Engineer</b>
 
-- 🌱 I’m currently learning **Natural Language Processing, Reinforcement Learning and Pythorch.**
+- 🌱 I’m currently learning **Generative AI and Agentic AI.**
 
-- 👨‍💻 Portfolio [https://portfolio-gray-ten-85.vercel.app/](https://portfolio-gray-ten-85.vercel.app/)
+- 👨‍💻 Portfolio [https://sites.google.com/view/sai-srushik](https://sites.google.com/view/sai-srushik)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Image Processing, Natural Language Processing, Reinforcement Learning, Python,Pytorch, Tensorflow, Keras, ReactJs, NodeJs, MongoDB, SQl.**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, Java, Tensorflow, ReactJs, NodeJs, MongoDB, SQl, Selenium.**
 
 - 📫 How to reach me **saisrushik98@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VjDNsulBufA0vfNpq7Qg9CCCEGc5B40b/view?usp=drive_link](https://drive.google.com/file/d/1VjDNsulBufA0vfNpq7Qg9CCCEGc5B40b/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm highly humorous🤣**
 
